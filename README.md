@@ -9,7 +9,7 @@ The project uses a **pre-trained ResNet-50 model with transfer learning** and pr
 ## 🚀 Live Demo
 
 🌐 **Streamlit App:**  
-[Click here to try the application]([YOUR_STREAMLIT_APP_URL](https://waste-image-classification-8knjdoasyyj6cjuck4fipf.streamlit.app/) )
+[Click here to try the application](https://waste-image-classification-8knjdoasyyj6cjuck4fipf.streamlit.app/)
 
 ---
 
